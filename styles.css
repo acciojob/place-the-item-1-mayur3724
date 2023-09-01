@@ -1,2 +1,20 @@
-
-/* Your CSS Code here. */
+body{
+	display:flex;
+	justify-content:space-between;
+	flex-wrap:wrap;
+}
+.box-1{
+	width:100px;
+	height:100px;
+	background-color:green;
+}
+.box-2{
+	width:100px;
+	height:100px;
+	background-color:red;
+}
+.box-3{
+	width:100px;
+	height:100px;
+	background-color:blue;
+}
